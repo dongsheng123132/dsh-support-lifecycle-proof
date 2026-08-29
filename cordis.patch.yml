@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-support-lifecycle-proof
+      name: dsh-support-lifecycle-proof
+      config:
+        workspaceRoot: .

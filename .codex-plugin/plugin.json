@@ -1,0 +1,19 @@
+{
+  "name": "dsh-support-lifecycle-proof",
+  "version": "0.1.0",
+  "description": "Offline proof for supplied support-window and retirement evidence",
+  "author": {
+    "name": "2Origin"
+  },
+  "interface": {
+    "displayName": "DSH Support Lifecycle Proof",
+    "shortDescription": "Verify supplied support and retirement evidence.",
+    "longDescription": "A deterministic offline verifier for declared release support windows and retirement delivery evidence.",
+    "developerName": "2Origin",
+    "category": "Developer Tools",
+    "capabilities": ["Read"],
+    "defaultPrompt": ["Verify this supplied support lifecycle manifest."],
+    "brandColor": "#2563EB"
+  },
+  "mcpServers": "./.mcp.json"
+}

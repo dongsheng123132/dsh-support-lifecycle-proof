@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dsh-support-lifecycle-proof": {
+      "command": "node",
+      "args": ["${pluginDir}/mcp-server.mjs"]
+    }
+  }
+}
